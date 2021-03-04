@@ -1,0 +1,93 @@
+{
+  "export": [
+    {
+      "_basePath": "./IMM/",
+      "_code": "IMM",
+      "_name": "Immunization",
+      "_prefix": "[CONFIG]",
+      "_ownership": {
+        "modeOwner": "OVERWRITE",
+        "modeLastUpdated": "REMOVE",
+        "ownerId": "vUeLeQMSwhN"
+      },
+      "_sharing": {
+        "groupMode": "OVERWRITE",
+        "groups": [
+          {
+            "id": "mJXfg1R1L29",
+            "metadata": "VIEW",
+            "data": "EDIT"
+          },
+          {
+            "id": "LPrZIVYQGUv",
+            "metadata": "NONE",
+            "data": "NONE"
+          },
+          {
+            "id": "T6DZORCrELb",
+            "metadata": "EDIT",
+            "data": "EDIT"
+          },
+          {
+            "id": "JVenB84tY1X",
+            "metadata": "VIEW",
+            "data": "EDIT"
+          },
+          {
+            "id": "J3mFUNTreYY",
+            "metadata": "VIEW",
+            "data": "VIEW"
+          },
+          {
+            "id": "gum1e8w6CmI",
+            "metadata": "VIEW",
+            "data": "EDIT"
+          }
+        ],
+        "groupExport": true,
+        "userMode": "REMOVE",
+        "users": [
+          {
+            "id": "vUeLeQMSwhN",
+            "metadata": "EDIT",
+            "data": "EDIT"
+          }
+        ],
+        "userExport": false,
+        "publicAccess": {
+          "metadata": "VIEW",
+          "data": "NONE"
+        }
+      },
+      "_type": "tracker",
+      "_url": [
+        "https://who-dev.dhis2.org/tracker_dev"
+      ],
+      "_version": "1.0.0",
+      "customObjects": [
+        {
+          "objectIds": [
+            "wOcoDe5zTRJ"
+          ],
+          "objectType": "trackedEntityAttributes"
+        }
+      ],
+      "dashboardIds": [
+        "duxpAkzVD9r",
+        "jEZlIePnBUV"
+      ],
+      "exportIndicatorGroupsIds": [
+        "hwOnv7hS8qk"
+      ],
+      "indicatorGroupIds": [
+        "hwOnv7hS8qk"
+      ],
+      "programIndicatorGroupIds": [
+        "Lesc1szBJGe"
+      ],
+      "programIds": [
+        "SSLpOM0r1U7"
+      ]
+    }
+  ]
+}
