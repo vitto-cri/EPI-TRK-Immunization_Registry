@@ -1,4 +1,4 @@
-# Immunization eRegistry - Tracker System Design
+# Immunization eRegistry - Tracker System Design { #immunization-eregistry-design }
 
 ## Purpose
 
